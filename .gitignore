@@ -1,0 +1,10 @@
+node_modules
+dist
+*.tsbuildinfo
+*.local
+.DS_Store
+
+# IDE: шарим только иконку проекта и конфигурации запуска
+.idea/*
+!.idea/icon.svg
+!.idea/runConfigurations/
